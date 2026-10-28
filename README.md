@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TypeScript Learning Journey 🚀
 
 Welcome to my TypeScript learning journey!
@@ -30,3 +31,7 @@ To build a strong foundation in TypeScript and progress toward full-stack develo
 This repository contains my practice code, exercises, and examples as I learn.
 
 More projects coming soon! 💻
+=======
+# typescript-learning-journey
+My TypeScript learning journey toward becoming a full-stack developer.
+>>>>>>> 33a8ec0a3fc5f51ea302d72c6c766343302ac10a
